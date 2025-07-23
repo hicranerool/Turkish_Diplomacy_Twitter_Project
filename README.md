@@ -1,6 +1,6 @@
 # Turkish_Diplomacy_Twitter_Project
 
-This repository is based on research conducted during a research assistantship period, focused on a mixed-methods Twitter analysis of Turkish public diplomacy from 2017 to 2018. The project includes R scripts developed for comprehensive data collection, descriptive statistics, sentiment analysis, content mining, and network visualization.
+💬 This repository is based on research conducted during a research assistantship period, focused on a mixed-methods Twitter analysis of Turkish public diplomacy from 2017 to 2018. The project includes R scripts developed for comprehensive data collection, descriptive statistics, sentiment analysis, content mining, and network visualization.
 
 ---
 
